@@ -1,5 +1,5 @@
 # Juego de ahorcado
-Ejercicio del curso de programación para principiantes - Juego de ahorcado en React
+Juego de ahorcado en React
 
 # Ejecutar:
 
